@@ -68,7 +68,7 @@ export default function HomePage() {
             initial={{ opacity: 0, x: 20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.6, delay: 0.1 }}
-            href="https://oroom.vercel.app/study"
+            href="https://orooms.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="relative inline-flex items-center px-5 py-2.5 rounded-lg font-semibold text-white text-sm sm:text-base shadow-lg bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 transform hover:scale-105 transition-all duration-300 ease-out"
