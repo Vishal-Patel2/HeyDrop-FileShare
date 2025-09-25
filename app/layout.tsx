@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Easily share files, text, or notes with anyone instantly and securely. No login required. Created by Vishal Patel.',
   generator: 'Next.js',
   applicationName: 'Hey Drop',
-  authors: [{ name: 'Vishal Patel', url: 'https://talaganarajesh.vercel.app/' }],
+  authors: [{ name: 'Vishal Patel', url: 'https://heydrops.vercel.app/' }],
   keywords: [
     'file sharing',
     'text sharing',
@@ -22,12 +22,12 @@ export const metadata: Metadata = {
   ],
   creator: 'Vishal Patel',
   publisher: 'Vishal Patel',
-  metadataBase: new URL('https://heydrop.vercel.app'),
+  metadataBase: new URL('https://heydrops.vercel.app/'),
 
   openGraph: {
     title: 'Hey Drop - Share anything instantly',
     description: 'Send files or text quickly without any login or signup. One-click sharing!',
-    url: 'https://heydrop.vercel.app',
+    url: 'https://heydrops.vercel.app/',
     siteName: 'Hey Drop',
     images: [
       {
